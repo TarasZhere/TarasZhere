@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TarasZhere
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning JAVA
-- 📫 How to reach me: zhere97@gmail.com
+- 📫 How to reach me: tzherebetskyy@fordham.edu
 
 <!---
 TarasZhere/TarasZhere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
