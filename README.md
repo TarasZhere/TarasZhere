@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TarasZhere
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: tzherebetskyy@fordham.edu
 
 <!---
